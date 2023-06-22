@@ -35,4 +35,4 @@ $ flutter run
 
 
 
-[telegram](https://t.me/myflutterjourney)
+[telegram](https://t.me/sezar3l3)
